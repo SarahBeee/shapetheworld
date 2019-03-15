@@ -2,10 +2,8 @@ body {
 	margin: 0;
 }
 
-#logo img {
-        height: 100%;
-	width: auto;
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
+#logo {
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
 }
